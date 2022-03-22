@@ -1,2 +1,2 @@
-# fe-cli-template
+# vue2-template
 CLI 模板
