@@ -1,2 +1,2 @@
-# fe-cli-template
-CLI 模板
+# vue3-plugin-dev-template
+
