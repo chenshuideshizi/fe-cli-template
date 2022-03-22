@@ -1,2 +1,2 @@
-# fe-cli-template
-CLI 模板
+# Webpack Loader Plugin Dev Template
+
